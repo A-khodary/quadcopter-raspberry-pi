@@ -3,6 +3,8 @@
 https://vimeo.com/219726521
 
 <img src="https://user-images.githubusercontent.com/10202690/32016977-9cf753be-b9c5-11e7-91e1-a7de08b79983.png" alt="alt text" width="500" height="whatever">
+<img src="https://user-images.githubusercontent.com/10202690/32025639-592c9e8e-b9e1-11e7-8fee-897b930bd3d0.jpg" alt="alt text" width="500" height="whatever">
+<img src="https://user-images.githubusercontent.com/10202690/32025949-622249f2-b9e2-11e7-953c-f4a228931363.jpg" alt="alt text" width="500" height="whatever">
 
 
 ### PREPARATION Raspberry Pi 2
